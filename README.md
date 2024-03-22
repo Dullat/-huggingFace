@@ -1,6 +1,6 @@
 # 🤗huggingFace🤗
 learning hugging face
-# Getting Started
+# Getting Started (with pipeline)
 
 if you are here you already know what huggingFace is. let's just work on it
 
